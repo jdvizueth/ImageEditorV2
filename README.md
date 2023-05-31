@@ -3,10 +3,12 @@ The improved version of Image Editor.
 
 Includes previous features, but can all be used on a single image allowing for minimal need to save images.
 
-As of May 27, 2023, features include:
+As of May 31, 2023, features include:
 - Ability to crop images
 - Ability to remove background
 - Ability to combine both features, allowing active selection of what to focus on as selected by the user.
+- Ability to generate image
+- Ability to create a 3x3 matrix that convolves the image chosen
 
 How to use:
 1. Load an image
